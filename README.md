@@ -1,2 +1,2 @@
 # Udacity Machine Learning Nanodegree
-Udacity Machine Learning Nanodegree Lesson 1 Tasks to be found in the "My Files" folder
+Udacity AWS Machine Learning Engineer Nanodegree Program - Introduction to Machine Learning Chapter
